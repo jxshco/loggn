@@ -2,11 +2,6 @@
 
 Logging, done a bit better.
 
-## Languages
-* [Javascript](js)
-* [Git](git)
-* [OSX](osx)
-
 ## Contributing
 
 Pull requests for new snippets, bug fixes, and suggestions are welcome!
