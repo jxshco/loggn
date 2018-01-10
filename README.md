@@ -1,4 +1,4 @@
-# [bits](https://github.com/jxshco/loggn)
+# [loggn](https://github.com/jxshco/loggn)
 
 Logging, done a bit better.
 
