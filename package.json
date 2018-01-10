@@ -1,7 +1,7 @@
 {
   "name": "loggn",
   "version": "0.0.1",
-  "description": "Logging, done a bit better. Edit",
+  "description": "Logging, done a bit better.",
   "main": "lib/index.js",
   "engines": {
     "node": ">=6.0.0"
