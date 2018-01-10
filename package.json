@@ -1,6 +1,6 @@
 {
   "name": "loggn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Logging, done a bit better.",
   "main": "lib/index.js",
   "engines": {
@@ -38,6 +38,5 @@
     "eslint-plugin-standard": "^2.1.1",
     "eslint-watch": "^3.0.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
