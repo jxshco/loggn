@@ -1,0 +1,43 @@
+{
+  "name": "loggn",
+  "version": "0.0.1",
+  "description": "Logging, done a bit better. Edit",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "lint": "esw lib/",
+    "lint:watch": "npm run lint -- --watch",
+    "do-publish": "npm run lint && npm publish"
+  },
+  "files": [
+    "lib",
+    "LICENSE.md",
+    "README.md"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxshco/loggn.git"
+  },
+  "keywords": [],
+  "author": "Josh Sturrock <hello@jxsh.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxshco/loggn/issues"
+  },
+  "homepage": "https://github.com/jxshco/loggn#readme",
+  "devDependencies": {
+    "babel-register": "^6.24.0",
+    "eslint": "^3.18.0",
+    "eslint-config-standard": "^7.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "eslint-watch": "^3.0.1"
+  },
+  "dependencies": {
+  }
+}
