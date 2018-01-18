@@ -1,13 +1,12 @@
 {
   "name": "loggn",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Logging, done a bit simpler.",
   "main": "lib/index.js",
   "engines": {
     "node": ">=6.0.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "files": [
     "lib",
     "LICENSE.md",
