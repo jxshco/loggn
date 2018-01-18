@@ -1,15 +1,12 @@
 {
   "name": "loggn",
   "version": "0.0.2",
-  "description": "Logging, done a bit better.",
+  "description": "Logging, done a bit simpler.",
   "main": "lib/index.js",
   "engines": {
     "node": ">=6.0.0"
   },
   "scripts": {
-    "lint": "esw lib/",
-    "lint:watch": "npm run lint -- --watch",
-    "do-publish": "npm run lint && npm publish"
   },
   "files": [
     "lib",
