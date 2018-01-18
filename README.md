@@ -1,6 +1,6 @@
 # [loggn](https://github.com/jxshco/loggn)
 
-Logging, done a bit better.
+Logging, done a bit simpler.
 
 ## Contributing
 
