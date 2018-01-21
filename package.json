@@ -1,6 +1,6 @@
 {
   "name": "loggn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Logging, done a bit simpler.",
   "main": "./lib/index.js",
   "scripts": {
