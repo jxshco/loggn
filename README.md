@@ -1,4 +1,4 @@
-# [loggn](https://github.com/jxshco/loggn)
+# [loggn](https://github.com/jxshco/loggn) [![Build Status](https://travis-ci.org/jxshco/loggn.svg?branch=master)](https://travis-ci.org/jxshco/loggn)
 
 Logging, done a bit simpler.
 
