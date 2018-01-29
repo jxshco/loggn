@@ -45,7 +45,7 @@
     "cross-env": "^3.0.0",
     "eslint-plugin-import": "^2.0.0",
     "babel-register": "^6.24.0",
-    "eslint": "^3.6.0",
+    "eslint": "^4.16.0",
     "jest": "^22.0.6",
     "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^3.5.0",
