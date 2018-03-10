@@ -13,6 +13,8 @@
 
 ## Why?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jxshco/loggn.svg)](https://greenkeeper.io/)
+
 Why write ```console.log('hello world')``` when you can write ```log('hello world')```
 
 ## Table of Contents
