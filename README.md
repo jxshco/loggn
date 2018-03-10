@@ -7,13 +7,13 @@
   <a href="https://www.npmjs.com/package/loggn"><img src="https://img.shields.io/npm/v/loggn.svg" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/loggn"><img src="https://img.shields.io/npm/dt/loggn.svg" alt="npm downloads"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  <a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/jxshco/loggn.svg" alt="Greenkeeper badge" /></a>
+
 </p>
 
 <p align="center">Logging, done a bit simpler.</p>
 
 ## Why?
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/jxshco/loggn.svg)](https://greenkeeper.io/)
 
 Why write ```console.log('hello world')``` when you can write ```log('hello world')```
 
