@@ -17,14 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/jxshco/loggn.git"
   },
-  "keywords": [
-    "logging",
-    "javascript",
-    "es6",
-    "npm",
-    "console"
-  ],
-  "author": "Josh Sturrock <hello@jxsh.co>",
+  "keywords": ["logging", "javascript", "es6", "npm", "console"],
+  "author": "Josh Sturrock <jxshco@gmail.com>",
   "bugs": {
     "url": "https://github.com/jxshco/loggn/issues"
   },
